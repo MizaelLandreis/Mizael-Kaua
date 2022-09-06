@@ -21,9 +21,7 @@ border: 2px white;
 margin: 10px;
 padding: 10px;
 font-size: 200%;
-   
-   -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: #000;
+  
 
 
 font-family: Helvetica;
@@ -47,5 +45,11 @@ border: 2px white;
 margin: 10px;
 padding: 10px;
 font-size: 200%;
+   
+   font-family: Helvetica;
+    color: #FFF;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000;
+}
 
  }
