@@ -1,2 +1,2 @@
 # Mizael-Kaua
-https://mizaellandreis.github.io/Mizael-Kaua/tyle.
+https://mizaellandreis.github.io/Mizael-Kaua
