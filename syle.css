@@ -1,0 +1,52 @@
+body {
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+
+}
+
+.barra {
+    background-color: rgb(255, 255, 255);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 40px;
+    margin-top: 30px;
+text-align: center;
+  }
+  .barra a {
+font-family: 'Open-sans', sans-serif;
+text-decoration: none;
+list-style: none;
+color: black;
+font-size: 25px;
+margin-top: 10px;
+margin-left: 50px;
+gap: 3rem;
+  }
+  .im1 {
+      margin-left: 0px;
+      margin-top: 40px;
+  }
+.qm {
+   background-image: url(img1.jpg);
+   width: 2150px;
+   height: 1040px;
+background-repeat: no-repeat;
+margin-top: 60px;
+margin-right: 0%;
+max-width: 100%;
+}
+
+  p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(0, 0, 0);
+  
+  transform: scale(0.9) translateY(-5px)
+  }
